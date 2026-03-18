@@ -37,6 +37,13 @@ A comprehensive guide to mastering OpenClaw — from basic gateway setup to adva
 |--------|-------|------|-------------|
 | [05](./05-skills-and-plugins/) | **Skills & Plugins** | 60 min | Custom capabilities |
 
+### Social & Collaboration
+
+| Module | Topic | Time | Key Outcome |
+|--------|-------|------|-------------|
+| [06](./06-group-chats/) | **Group Chat Handling** | 45 min | Multi-user chat etiquette + access control |
+| [07](./07-farcaster-setup/) | **Farcaster Setup** | 60 min | Decentralized social integration |
+
 ---
 
 ## Quick Reference
@@ -149,6 +156,18 @@ Learn to delegate tasks to specialized sub-agents for complex workflows.
 Extend OpenClaw with custom instructions (skills) or new capabilities (plugins).
 
 **Topics:** SKILL.md format, MCP plugins, decision framework, Coach case study
+
+### [Module 6: Group Chat Handling](./06-group-chats/)
+
+Navigate multi-user conversations with grace — when to participate, when to stay silent, and how to enforce access control.
+
+**Topics:** Participation principles, response triggers, access control patterns, multi-agent groups
+
+### [Module 7: Farcaster Setup](./07-farcaster-setup/)
+
+Integrate your agents with Farcaster, the decentralized social protocol, using the Neynar API.
+
+**Topics:** Neynar API setup, posting casts/threads, reading feeds, engagement workflows
 
 ---
 
